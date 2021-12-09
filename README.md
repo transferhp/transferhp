@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Peng, nice to meet you in Github :smile:
 
-<!--
-**transferhp/transferhp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+> I am an experienced data scientist with working experience at both AI start-up and large company. I am interested in using machine learning techniques and programming to solve the real world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect via:
+
+:e-mail: : haopengbuaa@gmail.com
+
+:link: : https://www.linkedin.com/in/peng-hao-02661485/
+
+:octocat: : https://github.com/transferhp
+
+:pushpin: : [resume](https://drive.google.com/file/d/1O7p31bR0Yyl30tRRKi0szEE4sIwSsuZ_/view?usp=sharing)
