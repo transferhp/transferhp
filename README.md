@@ -12,4 +12,4 @@
 
 :octocat: : https://github.com/transferhp
 
-:pushpin: : [resume](https://drive.google.com/file/d/1O7p31bR0Yyl30tRRKi0szEE4sIwSsuZ_/view?usp=sharing)
+:pushpin: : [resume](https://drive.google.com/file/d/1AvcLKdNnQ6LK_mNp2ittvsLxRuGTUOoF/view?usp=sharing)
