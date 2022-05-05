@@ -8,7 +8,7 @@
 
 :e-mail: : haopengbuaa@gmail.com
 
-:link: : https://www.linkedin.com/in/peng-hao-02661485/
+:link: : https://www.linkedin.com/in/peng-hao-phd/
 
 :octocat: : https://github.com/transferhp
 
