@@ -1,7 +1,7 @@
 ### Hi there, I'm Peng, nice to meet you in Github :smile:
 
 
-> I am an experienced data scientist with working experience at both AI start-up and large company. I am interested in using machine learning techniques and programming to solve the real world problems.
+> Peng is a seasoned professional in the fields of machine learning, artificial intelligence and data engineering. With a solid foundation in computer science and mathematics, Peng has successfully designed and implemented complex machine learning models and pipelines to solve real-world problems across various industries. He has a proven track record of deploying production-grade systems on cloud platforms such as GCP, AWS and Azure.
 
 
 ### Connect via:
