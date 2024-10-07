@@ -1,7 +1,9 @@
 ### Hi there, I'm Peng, nice to meet you in Github :smile:
 
 
-> Peng is a seasoned professional in the fields of machine learning, artificial intelligence and data engineering. With a solid foundation in computer science and mathematics, Peng has successfully designed and implemented complex machine learning models and pipelines to solve real-world problems across various industries. He has a proven track record of deploying production-grade systems on cloud platforms such as GCP, AWS and Azure.
+> Peng is a seasoned professional in the fields of Machine Learning (ML), Artificial Intelligence (AI) and Data Engineering (DE). 
+
+With a solid foundation in computer science and mathematics, Peng has successfully designed and implemented complex machine learning models and pipelines to solve real-world problems across various industries. He has a proven track record of deploying production-grade ML systems on cloud platforms such as GCP, AWS and Azure.
 
 
 ### Connect via:
