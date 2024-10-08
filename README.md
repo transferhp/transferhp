@@ -14,4 +14,4 @@ With a solid foundation in computer science and mathematics, Peng has successful
 
 :octocat: : https://github.com/transferhp
 
-:pushpin: : [resume](https://drive.google.com/file/d/1AvcLKdNnQ6LK_mNp2ittvsLxRuGTUOoF/view?usp=sharing)
+:pushpin: : [resume]([https://github.com/transferhp/one_page_resume_latex/blob/main/resume.pdf])
